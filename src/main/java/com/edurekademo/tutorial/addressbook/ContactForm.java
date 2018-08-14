@@ -107,7 +107,7 @@ public class ContactForm extends FormLayout {
         }
         setVisible(contact != null);
     }
-
+// changes done for testing
     @Override
     public AddressbookUI getUI() {
         return (AddressbookUI) super.getUI();
